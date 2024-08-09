@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.13.7" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2024-08-07T04:07:00Z</time>
+    <bounds maxlat="1.2738930" maxlon="124.8492390" minlat="1.2726990" minlon="124.8431610"/>
+  </metadata>
+
+  <wpt lat="1.2738930" lon="124.8492390">
+    <ele>956.3037110</ele>
+    <time>2024-06-05T02:13:12Z</time>
+    <name>1090</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="1.2737710" lon="124.8485780">
+    <ele>950.7161250</ele>
+    <time>2024-06-05T02:15:33Z</time>
+    <name>1091</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="1.2735970" lon="124.8482980">
+    <ele>947.3550420</ele>
+    <time>2024-06-05T02:16:35Z</time>
+    <name>1092</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="1.2734190" lon="124.8480790">
+    <ele>944.3198240</ele>
+    <time>2024-06-05T02:18:00Z</time>
+    <name>1093</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="1.2734880" lon="124.8477440">
+    <ele>941.5546880</ele>
+    <time>2024-06-05T02:19:20Z</time>
+    <name>1094</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="1.2734440" lon="124.8473810">
+    <ele>940.5991820</ele>
+    <time>2024-06-05T02:20:34Z</time>
+    <name>1095</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="1.2734560" lon="124.8469990">
+    <ele>938.1450200</ele>
+    <time>2024-06-05T02:22:03Z</time>
+    <name>1096</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="1.2732960" lon="124.8466480">
+    <ele>937.6353760</ele>
+    <time>2024-06-05T02:23:07Z</time>
+    <name>1097</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="1.2732940" lon="124.8463100">
+    <ele>937.3153690</ele>
+    <time>2024-06-05T02:24:06Z</time>
+    <name>1098</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="1.2732440" lon="124.8459020">
+    <ele>934.4025270</ele>
+    <time>2024-06-05T02:25:36Z</time>
+    <name>1099</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="1.2731650" lon="124.8455520">
+    <ele>931.6237180</ele>
+    <time>2024-06-05T02:26:34Z</time>
+    <name>1100</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="1.2730550" lon="124.8452550">
+    <ele>929.7543950</ele>
+    <time>2024-06-05T02:27:48Z</time>
+    <name>1101</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="1.2730990" lon="124.8449160">
+    <ele>924.9750980</ele>
+    <time>2024-06-05T02:28:50Z</time>
+    <name>1102</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="1.2731840" lon="124.8445280">
+    <ele>926.8195800</ele>
+    <time>2024-06-05T02:29:33Z</time>
+    <name>1103</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="1.2732860" lon="124.8442160">
+    <ele>926.9596560</ele>
+    <time>2024-06-05T02:30:05Z</time>
+    <name>1104</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="1.2733130" lon="124.8438600">
+    <ele>922.1315310</ele>
+    <time>2024-06-05T02:30:41Z</time>
+    <name>1105</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="1.2731770" lon="124.8435460">
+    <ele>917.4729000</ele>
+    <time>2024-06-05T02:31:17Z</time>
+    <name>1106</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="1.2729270" lon="124.8433070">
+    <ele>916.6525270</ele>
+    <time>2024-06-05T02:32:31Z</time>
+    <name>1107</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="1.2726990" lon="124.8431610">
+    <ele>914.5197140</ele>
+    <time>2024-06-05T02:33:02Z</time>
+    <name>1108</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+</gpx>

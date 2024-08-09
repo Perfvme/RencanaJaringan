@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select Options</title>
+</head>
+<body>
+    <h1>Select Options for Each Waypoint</h1>
+    <form action="" method="post">
+        {% for waypoint in waypoints %}
+            <div>
+                <label>Waypoint at ({{ waypoint.lat }}, {{ waypoint.lon }}):</label>
+                <select name="option">
+                    <option value="None">None</option>
+                    <option value="Guy Wire">Guy Wire</option>
+                    <option value="Support Pole">Support Pole</option>
+                </select>
+            </div>
+        {% endfor %}
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,1082 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2024-08-05T00:57:42Z</time>
+    <bounds maxlat="-1.277806973084807" maxlon="120.10677401907742" minlat="-1.317395959049463" minlon="120.0553470198065" />
+  </metadata>
+
+  <wpt lat="-1.317395959049463" lon="120.0553470198065">
+    <ele>990.35644500000001</ele>
+    <time>2024-08-03T01:14:26Z</time>
+    <name>367</name>
+    <cmt>2024-08-03 9:14:26am</cmt>
+    <desc>2024-08-03 9:14:26am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T01:14:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.316061979159713" lon="120.05667798221111">
+    <ele>986.71643099999994</ele>
+    <time>2024-08-03T01:17:13Z</time>
+    <name>368</name>
+    <cmt>2024-08-03 9:17:13am</cmt>
+    <desc>2024-08-03 9:17:13am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T01:17:13Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.312621040269733" lon="120.05827096290886">
+    <ele>989.57763699999998</ele>
+    <time>2024-08-03T01:22:43Z</time>
+    <name>369</name>
+    <cmt>2024-08-03 9:22:43am</cmt>
+    <desc>2024-08-03 9:22:43am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T01:22:43Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.311226040124893" lon="120.0588059797883">
+    <ele>989.13647500000002</ele>
+    <time>2024-08-03T01:25:10Z</time>
+    <name>370</name>
+    <cmt>2024-08-03 9:25:10am</cmt>
+    <desc>2024-08-03 9:25:10am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T01:25:10Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.309241037815809" lon="120.05887898616493">
+    <ele>986.23339799999997</ele>
+    <time>2024-08-03T01:28:23Z</time>
+    <name>371</name>
+    <cmt>2024-08-03 9:28:23am</cmt>
+    <desc>2024-08-03 9:28:23am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T01:28:23Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.30851399153471" lon="120.0593519769609">
+    <ele>990.09491000000003</ele>
+    <time>2024-08-03T01:29:57Z</time>
+    <name>372</name>
+    <cmt>2024-08-03 9:29:57am</cmt>
+    <desc>2024-08-03 9:29:57am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T01:29:57Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.3083849940449" lon="120.05948700942099">
+    <ele>989.06964100000005</ele>
+    <time>2024-08-03T01:30:19Z</time>
+    <name>373</name>
+    <cmt>2024-08-03 9:30:19am</cmt>
+    <desc>2024-08-03 9:30:19am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T01:30:19Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.307469019666314" lon="120.05998598411679">
+    <ele>987.57800299999997</ele>
+    <time>2024-08-03T01:32:05Z</time>
+    <name>374</name>
+    <cmt>2024-08-03 9:32:05am</cmt>
+    <desc>2024-08-03 9:32:05am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T01:32:05Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.305345967411995" lon="120.06003904156387">
+    <ele>989.62347399999999</ele>
+    <time>2024-08-03T01:35:17Z</time>
+    <name>375</name>
+    <cmt>2024-08-03 9:35:17am</cmt>
+    <desc>2024-08-03 9:35:17am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T01:35:17Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.304911030456424" lon="120.06019896827638">
+    <ele>989.00811799999997</ele>
+    <time>2024-08-03T01:36:48Z</time>
+    <name>376</name>
+    <cmt>2024-08-03 9:36:48am</cmt>
+    <desc>2024-08-03 9:36:48am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T01:36:48Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.304635014384985" lon="120.06028396077454">
+    <ele>992.98260500000004</ele>
+    <time>2024-08-03T01:37:21Z</time>
+    <name>377</name>
+    <cmt>2024-08-03 9:37:21am</cmt>
+    <desc>2024-08-03 9:37:21am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T01:37:21Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.303954990580678" lon="120.0607680156827">
+    <ele>1021.286743</ele>
+    <time>2024-08-03T01:40:02Z</time>
+    <name>378</name>
+    <cmt>2024-08-03 9:40:02am</cmt>
+    <desc>2024-08-03 9:40:02am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T01:40:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.304213991388679" lon="120.06100103259087">
+    <ele>1022.8792110000001</ele>
+    <time>2024-08-03T01:40:38Z</time>
+    <name>379</name>
+    <cmt>2024-08-03 9:40:38am</cmt>
+    <desc>2024-08-03 9:40:38am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T01:40:38Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.302469968795776" lon="120.06119398400187">
+    <ele>998.53082300000005</ele>
+    <time>2024-08-03T01:44:50Z</time>
+    <name>380</name>
+    <cmt>2024-08-03 9:44:50am</cmt>
+    <desc>2024-08-03 9:44:50am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T01:44:50Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.302552027627826" lon="120.06172196008265">
+    <ele>1003.066956</ele>
+    <time>2024-08-03T01:46:01Z</time>
+    <name>381</name>
+    <cmt>2024-08-03 9:46:01am</cmt>
+    <desc>2024-08-03 9:46:01am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T01:46:01Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.302531994879246" lon="120.0620579905808">
+    <ele>1008.221191</ele>
+    <time>2024-08-03T01:47:05Z</time>
+    <name>382</name>
+    <cmt>2024-08-03 9:47:05am</cmt>
+    <desc>2024-08-03 9:47:05am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T01:47:05Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.302213985472918" lon="120.06217801943421">
+    <ele>1003.988342</ele>
+    <time>2024-08-03T01:47:45Z</time>
+    <name>383</name>
+    <cmt>2024-08-03 9:47:45am</cmt>
+    <desc>2024-08-03 9:47:45am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T01:47:45Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.301780976355076" lon="120.06235797889531">
+    <ele>1013.886353</ele>
+    <time>2024-08-03T01:48:43Z</time>
+    <name>384</name>
+    <cmt>2024-08-03 9:48:43am</cmt>
+    <desc>2024-08-03 9:48:43am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T01:48:43Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.301441006362438" lon="120.0622390396893">
+    <ele>1007.190002</ele>
+    <time>2024-08-03T01:49:26Z</time>
+    <name>385</name>
+    <cmt>2024-08-03 9:49:26am</cmt>
+    <desc>2024-08-03 9:49:26am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T01:49:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.301332041621208" lon="120.06218799389899">
+    <ele>1005.822449</ele>
+    <time>2024-08-03T01:49:57Z</time>
+    <name>386</name>
+    <cmt>2024-08-03 9:49:57am</cmt>
+    <desc>2024-08-03 9:49:57am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T01:49:57Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.300373990088701" lon="120.06181701086462">
+    <ele>991.81030299999998</ele>
+    <time>2024-08-03T01:52:34Z</time>
+    <name>387</name>
+    <cmt>2024-08-03 9:52:34am</cmt>
+    <desc>2024-08-03 9:52:34am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T01:52:34Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.299245031550527" lon="120.06334897130728">
+    <ele>988.56097399999999</ele>
+    <time>2024-08-03T01:58:40Z</time>
+    <name>388</name>
+    <cmt>2024-08-03 9:58:40am</cmt>
+    <desc>2024-08-03 9:58:40am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T01:58:40Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.298933979123831" lon="120.06357603706419">
+    <ele>991.24224900000002</ele>
+    <time>2024-08-03T02:01:29Z</time>
+    <name>389</name>
+    <cmt>2024-08-03 10:01:29am</cmt>
+    <desc>2024-08-03 10:01:29am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T02:01:29Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.295854970812798" lon="120.06385004147887">
+    <ele>990.36743200000001</ele>
+    <time>2024-08-03T02:12:35Z</time>
+    <name>390</name>
+    <cmt>2024-08-03 10:12:35am</cmt>
+    <desc>2024-08-03 10:12:35am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T02:12:35Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.295462027192116" lon="120.06378902122378">
+    <ele>989.30023200000005</ele>
+    <time>2024-08-03T02:13:55Z</time>
+    <name>391</name>
+    <cmt>2024-08-03 10:13:55am</cmt>
+    <desc>2024-08-03 10:13:55am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T02:13:55Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.295349961146712" lon="120.06381299346685">
+    <ele>988.80395499999997</ele>
+    <time>2024-08-03T02:14:34Z</time>
+    <name>392</name>
+    <cmt>2024-08-03 10:14:34am</cmt>
+    <desc>2024-08-03 10:14:34am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T02:14:34Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.294861966744065" lon="120.06365398876369">
+    <ele>989.11047399999995</ele>
+    <time>2024-08-03T02:20:17Z</time>
+    <name>393</name>
+    <cmt>2024-08-03 10:20:17am</cmt>
+    <desc>2024-08-03 10:20:17am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T02:20:17Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.294285040348768" lon="120.06373898126185">
+    <ele>990.40716599999996</ele>
+    <time>2024-08-03T02:22:16Z</time>
+    <name>394</name>
+    <cmt>2024-08-03 10:22:16am</cmt>
+    <desc>2024-08-03 10:22:16am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T02:22:16Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.292853998020291" lon="120.06383797153831">
+    <ele>989.31719999999996</ele>
+    <time>2024-08-03T02:27:02Z</time>
+    <name>395</name>
+    <cmt>2024-08-03 10:27:02am</cmt>
+    <desc>2024-08-03 10:27:02am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T02:27:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.291120033711195" lon="120.0642180070281">
+    <ele>989.53747599999997</ele>
+    <time>2024-08-03T02:33:09Z</time>
+    <name>396</name>
+    <cmt>2024-08-03 10:33:09am</cmt>
+    <desc>2024-08-03 10:33:09am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T02:33:09Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.290347976610065" lon="120.06462201476097">
+    <ele>990.12890600000003</ele>
+    <time>2024-08-03T02:35:11Z</time>
+    <name>397</name>
+    <cmt>2024-08-03 10:35:11am</cmt>
+    <desc>2024-08-03 10:35:11am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T02:35:11Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.290215961635113" lon="120.06584401242435">
+    <ele>988.95983899999999</ele>
+    <time>2024-08-03T02:39:30Z</time>
+    <name>398</name>
+    <cmt>2024-08-03 10:39:30am</cmt>
+    <desc>2024-08-03 10:39:30am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T02:39:30Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.290310006588697" lon="120.06663501262665">
+    <ele>989.59094200000004</ele>
+    <time>2024-08-03T02:41:12Z</time>
+    <name>399</name>
+    <cmt>2024-08-03 10:41:12am</cmt>
+    <desc>2024-08-03 10:41:12am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T02:41:12Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.290289973840118" lon="120.06680198013783">
+    <ele>989.42913799999997</ele>
+    <time>2024-08-03T02:41:41Z</time>
+    <name>400</name>
+    <cmt>2024-08-03 10:41:41am</cmt>
+    <desc>2024-08-03 10:41:41am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T02:41:41Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.290344959124923" lon="120.06736197508872">
+    <ele>989.62811299999998</ele>
+    <time>2024-08-03T02:43:21Z</time>
+    <name>401</name>
+    <cmt>2024-08-03 10:43:21am</cmt>
+    <desc>2024-08-03 10:43:21am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T02:43:21Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.289078034460545" lon="120.06932602263987">
+    <ele>986.45410200000003</ele>
+    <time>2024-08-03T02:58:39Z</time>
+    <name>402</name>
+    <cmt>2024-08-03 10:58:39am</cmt>
+    <desc>2024-08-03 10:58:39am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T02:58:39Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.285596024245024" lon="120.07552100345492">
+    <ele>987.05285600000002</ele>
+    <time>2024-08-03T03:13:26Z</time>
+    <name>403</name>
+    <cmt>2024-08-03 11:13:26am</cmt>
+    <desc>2024-08-03 11:13:26am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T03:13:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.285498039796948" lon="120.07653496228158">
+    <ele>994.040527</ele>
+    <time>2024-08-03T03:16:40Z</time>
+    <name>404</name>
+    <cmt>2024-08-03 11:16:40am</cmt>
+    <desc>2024-08-03 11:16:40am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T03:16:40Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.285537015646696" lon="120.07676999084651">
+    <ele>997.14624000000003</ele>
+    <time>2024-08-03T03:17:25Z</time>
+    <name>405</name>
+    <cmt>2024-08-03 11:17:25am</cmt>
+    <desc>2024-08-03 11:17:25am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T03:17:25Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.285729967057705" lon="120.07705497555435">
+    <ele>990.54113800000005</ele>
+    <time>2024-08-03T03:18:49Z</time>
+    <name>406</name>
+    <cmt>2024-08-03 11:18:49am</cmt>
+    <desc>2024-08-03 11:18:49am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T03:18:49Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.285733990371227" lon="120.07748102769256">
+    <ele>991.74389599999995</ele>
+    <time>2024-08-03T03:22:34Z</time>
+    <name>407</name>
+    <cmt>2024-08-03 11:22:34am</cmt>
+    <desc>2024-08-03 11:22:34am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T03:22:34Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.28608301281929" lon="120.07909303531051">
+    <ele>987.44732699999997</ele>
+    <time>2024-08-03T03:30:24Z</time>
+    <name>408</name>
+    <cmt>2024-08-03 11:30:24am</cmt>
+    <desc>2024-08-03 11:30:24am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T03:30:24Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.286156019195914" lon="120.08116596378386">
+    <ele>985.63568099999998</ele>
+    <time>2024-08-03T03:39:08Z</time>
+    <name>409</name>
+    <cmt>2024-08-03 11:39:08am</cmt>
+    <desc>2024-08-03 11:39:08am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T03:39:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.286166999489069" lon="120.08240195922554">
+    <ele>986.10357699999997</ele>
+    <time>2024-08-03T03:42:44Z</time>
+    <name>410</name>
+    <cmt>2024-08-03 11:42:44am</cmt>
+    <desc>2024-08-03 11:42:44am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T03:42:44Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.28423597663641" lon="120.08500596508384">
+    <ele>998.54937700000005</ele>
+    <time>2024-08-03T03:50:56Z</time>
+    <name>411</name>
+    <cmt>2024-08-03 11:50:56am</cmt>
+    <desc>2024-08-03 11:50:56am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T03:50:56Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.283255964517593" lon="120.08631496690214">
+    <ele>992.77832000000001</ele>
+    <time>2024-08-03T03:59:13Z</time>
+    <name>412</name>
+    <cmt>2024-08-03 11:59:13am</cmt>
+    <desc>2024-08-03 11:59:13am</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T03:59:13Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.28326702862978" lon="120.08658796548843">
+    <ele>984.49237100000005</ele>
+    <time>2024-08-03T04:05:45Z</time>
+    <name>413</name>
+    <cmt>2024-08-03 12:05:45pm</cmt>
+    <desc>2024-08-03 12:05:45pm</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T04:05:45Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.284418031573296" lon="120.09206595830619">
+    <ele>981.359375</ele>
+    <time>2024-08-03T05:00:51Z</time>
+    <name>414</name>
+    <cmt>2024-08-03 1:00:51pm</cmt>
+    <desc>2024-08-03 1:00:51pm</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T05:00:51Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.280105039477348" lon="120.10363499633968">
+    <ele>981.47863800000005</ele>
+    <time>2024-08-03T05:19:00Z</time>
+    <name>415</name>
+    <cmt>2024-08-03 1:19:00pm</cmt>
+    <desc>2024-08-03 1:19:00pm</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T05:19:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.277806973084807" lon="120.10594697669148">
+    <ele>981.60211200000003</ele>
+    <time>2024-08-03T05:23:02Z</time>
+    <name>416</name>
+    <cmt>2024-08-03 1:23:02pm</cmt>
+    <desc>2024-08-03 1:23:02pm</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T05:23:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-1.277846032753587" lon="120.10677401907742">
+    <ele>981.629639</ele>
+    <time>2024-08-03T05:27:47Z</time>
+    <name>417</name>
+    <cmt>2024-08-03 1:27:47pm</cmt>
+    <desc>2024-08-03 1:27:47pm</desc>
+    <sym>Pin, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2024-08-03T05:27:47Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+</gpx>
