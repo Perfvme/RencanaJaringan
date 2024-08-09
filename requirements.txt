@@ -12,6 +12,7 @@ fonttools==4.53.1
 geographiclib==2.0
 geopy==2.4.1
 gpxpy==1.6.2
+gunicorn==22.0.0
 idna==3.7
 itsdangerous==2.2.0
 Jinja2==3.1.4
