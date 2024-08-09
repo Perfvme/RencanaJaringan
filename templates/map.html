@@ -189,6 +189,11 @@
                     <td><input type="text" name="jumlah_jasa_3" class="form-control" readonly></td>
                     <td><input type="text" name="total_3" class="form-control" readonly></td>
                 </tr>
+                <!-- Total Row -->
+                <tr>
+                    <td colspan="8"><strong>JUMLAH MATERIAL UTAMA</strong></td>
+                    <td><input type="text" id="total_sum_main" class="form-control" readonly></td>
+                </tr>
             </tbody>
         </table>
 
@@ -254,6 +259,26 @@
                     <td><input type="text" name="total_{{ i }}" class="form-control" readonly></td>
                 </tr>
                 {% endfor %}
+                <!-- Total Row -->
+                <tr>
+                    <td colspan="8"><strong>JUMLAH MATERIAL NON UTAMA</strong></td>
+                    <td><input type="text" id="total_sum_non_main" class="form-control" readonly></td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- Combined Total Row -->
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th colspan="9">TOTAL MATERIAL UTAMA DAN NON UTAMA</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td colspan="8"><strong>JUMLAH KESELURUHAN</strong></td>
+                    <td><input type="text" id="total_combined_sum" class="form-control" readonly></td>
+                </tr>
             </tbody>
         </table>
 
@@ -288,6 +313,32 @@
         });
     });
 
+    function updateTotalSums() {
+        // Update sum for A. Material Utama
+        let totalSumMain = 0;
+        document.querySelectorAll('input[name^="total_"]').forEach((input, index) => {
+            if (index < 3) { // Adjust the condition based on the actual number of rows
+                const value = parseFloat(input.value) || 0;
+                totalSumMain += value;
+            }
+        });
+        document.getElementById('total_sum_main').value = totalSumMain.toFixed(2);
+
+        // Update sum for B. Material Non Utama
+        let totalSumNonMain = 0;
+        document.querySelectorAll('input[name^="total_"]').forEach((input, index) => {
+            if (index >= 3) { // Adjust the condition based on the actual number of rows
+                const value = parseFloat(input.value) || 0;
+                totalSumNonMain += value;
+            }
+        });
+        document.getElementById('total_sum_non_main').value = totalSumNonMain.toFixed(2);
+
+        // Calculate the combined total
+        const combinedTotal = totalSumMain + totalSumNonMain;
+        document.getElementById('total_combined_sum').value = combinedTotal.toFixed(2);
+    }
+
     document.querySelectorAll('input').forEach(input => {
         input.addEventListener('input', function() {
             const row = this.closest('tr');
@@ -302,8 +353,13 @@
             row.querySelector('input[name^="jumlah_material"]').value = jumlahMaterial.toFixed(2);
             row.querySelector('input[name^="jumlah_jasa"]').value = jumlahJasa.toFixed(2);
             row.querySelector('input[name^="total"]').value = total.toFixed(2);
+
+            updateTotalSums();
         });
     });
+
+    // Initial calculation of totals
+    updateTotalSums();
     </script>
 </body>
 </html>
